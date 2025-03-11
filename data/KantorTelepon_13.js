@@ -1,1 +1,0 @@
-var json_KantorTelepon_13 = {"type":"FeatureCollection","name":"KantorTelepon_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Label":"Kantor Telepon","LCODE":"HC0120"},"geometry":{"type":"Point","coordinates":[124.313766290000103,0.74235231900002]}}]}
